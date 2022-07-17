@@ -1,2 +1,2 @@
-# platzicon-bootstrap5
+# platziconf-bootstrap5
 Proyecto realizado en el Curso de Bootstrap de Platzi.
